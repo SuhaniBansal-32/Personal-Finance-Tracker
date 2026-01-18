@@ -1,8 +1,10 @@
 package com.finance.tracker.model;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 public class User {
     private final String username;
